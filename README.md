@@ -18,7 +18,7 @@ The game was implemented in C and executed on a RISC-V soft-core processor recon
 * RISC-V 
 
 ## Video Demonstration 🎥
-
+[![Watch the video](https://i3.ytimg.com/vi/bj-UH3j_32s/maxresdefault.jpg)](https://www.youtube.com/watch?v=bj-UH3j_32s)
 ## Block Diagram 👷
 ![alt text](Flame_Runner_Block_Diagram.jpg)
 
