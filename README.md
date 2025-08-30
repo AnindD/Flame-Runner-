@@ -20,6 +20,7 @@ The game was implemented in C and executed on a RISC-V soft-core processor recon
 ## Video Demonstration 🎥
 
 ## Block Diagram 👷
+![alt text](Flame Runner Block Diagram.jpg)
 
 ## User Installation ⚙️
 If you would just like to simulate the game on your home PC, simply open the simulation software, [![CPULator](https://cpulator.01xz.net/?sys=rv32-de1soc)] and open the C file provided within this project. 
