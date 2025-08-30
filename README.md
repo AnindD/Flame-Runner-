@@ -15,7 +15,7 @@ The game was implemented in C and executed on a RISC-V soft-core processor recon
 * Use of external I/O peripherals: VGA, Audio Speaker & PS/2 Controller 
 * Use of interrupts to control timer and screen transition using assembly 
 * Game physics and movement control
-* RISC-V 
+* Use of RISC-V Instruction Set Architecture 
 
 ## Video Demonstration 🎥
 [![Watch the video](https://i3.ytimg.com/vi/bj-UH3j_32s/maxresdefault.jpg)](https://www.youtube.com/watch?v=bj-UH3j_32s)
